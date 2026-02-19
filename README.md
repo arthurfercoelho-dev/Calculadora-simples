@@ -1,2 +1,14 @@
-# Calculadora-simples
-Calculadora web desenvolvida com HTML, CSS e JavaScript, capaz de realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão.
+# Calculadora Web
+
+Projeto de calculadora simples desenvolvida com HTML, CSS e JavaScript.
+
+# Funcionalidades
+- Operações básicas (+, -, *, /)
+- Botão de limpar (AC)
+- Botão de apagar (<)
+- Tratamento de erros
+
+# Tecnologias
+- HTML5
+- CSS3
+- JavaScript
